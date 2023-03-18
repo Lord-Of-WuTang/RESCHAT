@@ -52,7 +52,8 @@ body {
 }
 
 .header-text {
-  color: rgb(17, 20, 22);
+  color: black;
+  height: 70px
 }
 
 .chat-header {
